@@ -1,5 +1,7 @@
-# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-
+# EX 05 SQUARE WAVE GENERATION USING TIMER
+### Name : ANISH RAJ P
+### Register no : 212222230010
+### Date of experiment : 09.10.2024
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
